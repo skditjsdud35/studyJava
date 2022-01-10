@@ -1,2 +1,2 @@
-#study JAVA
+# study JAVA
 개인적으로 공부한 자바 프로그래밍 내용을 정리합니다.
